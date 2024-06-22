@@ -48,6 +48,6 @@ Zum Abschluss muss das Modpack als neues Custom Profile in CurseForge importiert
 --------------------------------------->
 <br />
 
-## CONTACT
+## Contact
 
 [LinkedIn](https://www.linkedin.com/in/lukasschr/)
