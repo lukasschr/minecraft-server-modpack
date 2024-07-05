@@ -4,9 +4,9 @@
 
 # minecraft-server-modpack
 
-**A minecraft modpack for Lukas Minecraft Server [llmcs.duckdns.org:25565]()**
+**A minecraft modpack for Lukas Minecraft Server [cookiemc.duckdns.org:25565]()**
 
-⚠️ **Hinweis**: Achtet darauf, dass eure installierte Modpack-Version mit der Server-Version übereinstimmt. Die aktuelle Server-Version kann in der MOTD gefunden werden.
+⚠️ **Hinweis**: Achtet darauf, dass eure installierte Modpack-Version mit der Server-Version übereinstimmt. Die aktuelle Server-Version kann der MOTD und dem [Player's Handbook](https://lukasschroeder.notion.site/Player-s-Handbook-1d410b6a56874a01932b5ff7bae7789b?pvs=4) entnommen werden.
 
 
 <!-------------------------------------- 
